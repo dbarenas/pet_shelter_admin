@@ -1,0 +1,15 @@
+<!-- adopta_modepran/templates/adopta_modepran/animal_list.html -->
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Animal List</title>
+</head>
+<body>
+    <h1>Animals</h1>
+    <ul>
+        {% for animal in animals %}
+            <li>{{ animal.tipo }} - {{ animal.numero }}</li>
+        {% endfor %}
+    </ul>
+</body>
+</html>
