@@ -1,5 +1,7 @@
 # Proyecto Pet Shelter
 
+Proyecto disponible en https://dbarenas.pythonanywhere.com/admin/
+
 ## Descripción
 Pet Shelter es un sistema desarrollado en Django para gestionar la adopción de animales, el seguimiento de acceso e interés de adoptantes, así como la gestión del personal voluntario y controles médicos de los animales en protectoras. El proyecto tiene como objetivo facilitar la gestión de animales en protectoras y el proceso de adopción, mejorando la experiencia de adopción tanto para los animales como para los adoptantes.
 
